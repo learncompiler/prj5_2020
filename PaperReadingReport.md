@@ -53,3 +53,11 @@ All of the above four patterns can be represented as a semantic formula, namely
 <img src="pics/pattern_representation.png" alt="pattern_representation" style="zoom:50%;" />
 
 From which we can see more clearly the distinction between causalities and conditionals.
+
+## Next week
+
+Read, understand and run the code.
+
+## Future plan
+
+Come up with more patterns.
