@@ -30,7 +30,7 @@ The second step is to extract semantic rules out of a large amount of symbolic c
 
 Return values of a function often indicate its execution status. For example, we must check if the return value of `malloc()` is NULL. 
 
-<img src="/Users/yhx/Documents/prj5_2020/pics/return_value_example.png" alt="return_value_example" style="zoom:50%;" />
+<img src="pics/return_value_example.png" alt="return_value_example" style="zoom:50%;" />
 
 Above is a bug found in Linux. The `kthread_run()` function either returns a pointer or a non-zero error code, so the error is never reported.
 
