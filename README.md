@@ -29,6 +29,4 @@ Read another paper.
 #### Work
 
 Run the code. Successfully run samples.
-Read return value checker.
-
-
+Begin reading return value checker.
