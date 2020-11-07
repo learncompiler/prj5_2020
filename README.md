@@ -24,3 +24,11 @@ Run the code. Apply it to new codes.
 
 Read another paper.
 
+### Week 2
+
+#### Work
+
+Run the code. Successfully run samples.
+Read return value checker.
+
+
